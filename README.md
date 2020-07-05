@@ -1,0 +1,2 @@
+# vacationfinder
+Hackation discord bot
