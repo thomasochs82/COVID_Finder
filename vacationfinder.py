@@ -158,4 +158,4 @@ async def safe(ctx):
     "``` if you want to exit the program.```")
     res_status.enter_country = True
 
-client.run("NzI4NjQ5OTMyNzQ3MzA5MDY2.Xv9eWQ.pQJ1wRRxVzTA1nLKr6gKx6c3DHw")
+client.run("NzI4NjQ5OTMyNzQ3MzA5MDY2.XwFN1g.QsWzPNmJ4VAnyXh1uW6lghlkCec")
