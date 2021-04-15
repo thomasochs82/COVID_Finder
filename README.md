@@ -1,4 +1,4 @@
-# vacationfinder
+# COVID Finder
 Hackation discord bot
 1) attatch the source code file!
 2) copy the link (on line 8) - this is the invite link for the bot. this is how you add the bot to an existing server
